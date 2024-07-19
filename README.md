@@ -13,7 +13,8 @@ This project showcases a Netflix clone built with the MERN stack (MongoDB, Expre
 <div>
   <img src="https://github.com/user-attachments/assets/a338af78-5467-463d-9367-efaa4f5abca5" alt="Screenshot 1" width="400" style="margin-right: 20px;" />
   <img src="https://github.com/user-attachments/assets/df8b9b8a-eb55-489b-8454-587b0eb26cba" alt="Screenshot 2" width="400" style="margin-right: 20px;" />
-  <img src="https://github.com/user-attachments/assets/24b8f8f1-d298-4658-932b-90075a02f3d8" alt="Screenshot 3" width="400" />
+  <img src="https://github.com/user-attachments/assets/24b8f8f1-d298-4658-932b-90075a02f3d8" alt="Screenshot 3" width="400" style="margin-right: 20px;" />
+  <img src="https://github.com/user-attachments/assets/3aa668d8-6c19-48bd-b956-bd2d276dd53c" alt="Screenshot 4" width="400" />
 </div>
 
 ## Live Demo:
