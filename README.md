@@ -14,7 +14,11 @@ Streaming: Stream content directly within the application.
 ![Screenshot 2024-07-20 043228](https://github.com/user-attachments/assets/a338af78-5467-463d-9367-efaa4f5abca5)
 
 
+
+
 ![Screenshot 2024-07-20 043325](https://github.com/user-attachments/assets/df8b9b8a-eb55-489b-8454-587b0eb26cba)
+
+
 
 
 ![Screenshot 2024-07-20 043513](https://github.com/user-attachments/assets/24b8f8f1-d298-4658-932b-90075a02f3d8)
@@ -22,4 +26,5 @@ Streaming: Stream content directly within the application.
 # LiveDemo:
 
 Check out the live demo using the link below:
+
 https://netflix-frontend-u9xt.onrender.com/
