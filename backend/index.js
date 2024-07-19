@@ -19,7 +19,7 @@ app.use(express.urlencoded({extended:true}));
 app.use(express.json());
 app.use(cookieParser());
 const corsOptions = {
-    origin:"https://netflix-frontend-u9xt.onrender.com/",
+    origin:'https://netflix-frontend-u9xt.onrender.com/',
     credentials:true
 }
 app.use(cors(corsOptions));
