@@ -11,10 +11,10 @@ This project showcases a Netflix clone built with the MERN stack (MongoDB, Expre
 ## Screenshots:
 
 <div>
-  <img src="https://github.com/user-attachments/assets/a338af78-5467-463d-9367-efaa4f5abca5" alt="Screenshot 1" width="400" style="margin-right: 20px;" />
-  <img src="https://github.com/user-attachments/assets/df8b9b8a-eb55-489b-8454-587b0eb26cba" alt="Screenshot 2" width="400" style="margin-right: 20px;" />
-  <img src="https://github.com/user-attachments/assets/24b8f8f1-d298-4658-932b-90075a02f3d8" alt="Screenshot 3" width="400" style="margin-right: 20px;" />
-  <img src="https://github.com/user-attachments/assets/3aa668d8-6c19-48bd-b956-bd2d276dd53c" alt="Screenshot 4" width="400" />
+  <img src="https://github.com/user-attachments/assets/03f0c447-1460-4760-8375-dd6b5e430fc8" alt="Screenshot 1" width="400" style="margin-right: 20px;" />
+  <img src="https://github.com/user-attachments/assets/c41814d5-4a5f-45cf-880a-81c0852df7ba" alt="Screenshot 2" width="400" style="margin-right: 20px;" />
+  <img src="https://github.com/user-attachments/assets/a5e3ab59-2875-4e11-aa6b-4864d25cf87a" alt="Screenshot 3" width="400" style="margin-right: 20px;" />
+  <img src="https://github.com/user-attachments/assets/d725e5d1-9263-44a7-9bcb-a40c40511c4a" alt="Screenshot 4" width="400" />
 </div>
 
 ## Live Demo:
